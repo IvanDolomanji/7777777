@@ -1,0 +1,14 @@
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\Kab-35-16\source\repos\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\obj\Debug\ConsoleApp21.exe.config
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\PUSHKIN\Desktop\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
